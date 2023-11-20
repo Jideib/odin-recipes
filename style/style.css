@@ -1,3 +1,22 @@
 * {
+    background-color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(138,43,226);
+    font-size: 50px;
+    font-weight: 800;
+    font-style: oblique;
     
+}
+img {
+    image-rendering: auto;
+    position: relative;
+}
+
+li {
+    font-size: medium;
+    color: rgb(180, 118, 241);
 }
